@@ -12,4 +12,5 @@ Thanks to all the amazing contributors! 🎉
 - Diksha Roy (@Diksha0904)
 - SOURAV KUMAR (@sourav349)
 - Anukalp Pandey (@anukalp2804)
+- Kirti Pant (@Kirti-Pant)
 
